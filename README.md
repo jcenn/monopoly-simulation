@@ -1,6 +1,6 @@
 ## Monopoly simulation
 Simulates a 4-player game of Monopoly played for a set number of turns and counts total visits for each square. Results are then written to a CSV file.
-The aim of this simulation was to find out if some squares are visited more often than others and thus are more profitable if purchased.
+The aim of this simulation was to find out if some properties are visited more often than others and thus are more profitable if purchased.
 
 Assumes players can always roll again if both rolled dice land on the same value.
 Additionally some non-purchasable squares have been omitted from the results.
