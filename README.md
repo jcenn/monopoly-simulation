@@ -10,5 +10,5 @@ Additionally some non-purchasable squares have been omitted from the results.
 
 The x-axis represents Monopoly squares (starting from Go! being 0). Values on the y-axis represent how many visits a certain square got during the simulation.
 
-Some squares have been ommited from the chart, namely: the Go square, both jail squares and community chest and chance squares (their effects are still accounted for if they end up changing player's position)
+Some squares have been omitted from the chart: the Go square, both jail squares and community chest and chance squares (their effects are still accounted for if they end up changing player's position)
 Chart columns for properties have been color-coded for easier reading according to their colors in author's edition of Monopoly 
